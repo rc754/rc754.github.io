@@ -35,6 +35,8 @@ I am a recent graduate from Shiv Nadar University, with a major in Electronics a
   <span><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50px"/></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"></span>&nbsp;
 
+</p>
+
 ### My Github Stats:
 <br>
 <p align = "center">
