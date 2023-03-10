@@ -32,6 +32,18 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+a{
+	text-decoration-line: none !important;
+	text-decoration: none !important;
+}
+a.hrefelemnts {
+color: #efefef;
+text-decoration: none !important;
+}
+a.hrefelemnts:hover{
+	color: #3eb08f;
+	text-decoration: none !important;
+}
 
 ol, ul {
 	list-style: none;
@@ -112,13 +124,13 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
 		color: #49bf9d;
-		text-decoration: none;
+		text-decoration: none !important;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
-			text-decoration: none;
+			text-decoration: none !important;
 		}
 
 	strong, b {
