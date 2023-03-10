@@ -37,7 +37,7 @@ a{
 	text-decoration: none !important;
 }
 a.hrefelemnts {
-color: #efefef;
+color: #efefef !important;
 text-decoration: none !important;
 }
 a.hrefelemnts:hover{
